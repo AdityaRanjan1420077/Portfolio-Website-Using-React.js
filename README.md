@@ -98,29 +98,29 @@ The dev server will start at `http://localhost:5173` (default Vite port).
 
 ---
 
-## ðŸ— Build for Production
+## 🏗  Build for Production
 
 ```bash
 npm run build
 ```
 
 The optimized static files will be generated in the `dist/` directory, ready for deployment on:
-- **Vercel** â€” `vercel --prod`
-- **Netlify** â€” Drag & drop `dist/` folder
-- **GitHub Pages** â€” Use `gh-pages` branch
-- **Any static host** â€” Upload `dist/` contents
+- **Vercel** --” `vercel --prod`
+- **Netlify** --” Drag & drop `dist/` folder
+- **GitHub Pages** --” Use `gh-pages` branch
+- **Any static host** --” Upload `dist/` contents
 
 ---
 
-## ðŸŽ¨ Customization Guide
+## 🎨 Customization Guide
 
 ### Updating Personal Information
 
-1. **Name & Title** â€” Edit `index.html` `<title>` tag and `src/sections/Hero.jsx`
-2. **Projects** â€” Update data in `src/data/projects.js` (or equivalent)
-3. **Skills** â€” Modify `src/sections/Skills.jsx` or skill data file
-4. **Contact Links** â€” Update social URLs in `src/sections/Contact.jsx`
-5. **Resume** â€” Replace `public/resume.pdf` with your own
+1. **Name & Title** --” Edit `index.html` `<title>` tag and `src/sections/Hero.jsx`
+2. **Projects** --” Update data in `src/data/projects.js` (or equivalent)
+3. **Skills** --” Modify `src/sections/Skills.jsx` or skill data file
+4. **Contact Links** --” Update social URLs in `src/sections/Contact.jsx`
+5. **Resume** --” Replace `public/resume.pdf` with your own
 
 ### Changing Colors / Theme
 
@@ -141,7 +141,7 @@ $bg-dark: #your-background;
 
 ---
 
-## ðŸ§© Key Dependencies
+## 🧩  Key Dependencies
 
 | Package | Version | Purpose |
 |---------|---------|---------|
@@ -157,7 +157,7 @@ $bg-dark: #your-background;
 
 ---
 
-## ðŸ”§ ESLint Configuration
+## 🔧 ESLint Configuration
 
 This project uses the new **ESLint Flat Config** format:
 
@@ -179,7 +179,7 @@ To add custom rules, edit `eslint.config.js`:
 
 ---
 
-## ðŸ“¸ Screenshots
+## 📸 Screenshots
 
 > _Add screenshots of your portfolio sections here_
 
@@ -189,9 +189,9 @@ To add custom rules, edit `eslint.config.js`:
 
 ---
 
-## ðŸŒ Live Demo
+## 🌐 Live Demo
 
-ðŸ”— **View Live**: [https://your-portfolio-url.vercel.app](https://your-portfolio-url.vercel.app)
+ðŸ”— **View Live**: (https://portfolio-website-using-react-yv42f7506.vercel.app/)
 
 ---
 
