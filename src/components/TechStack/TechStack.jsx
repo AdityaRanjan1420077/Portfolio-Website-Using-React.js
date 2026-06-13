@@ -66,7 +66,7 @@ import gsapIcon from "../../assets/images/tech-icons/gsapIcon.svg";
 import sassIcon from "../../assets/images/tech-icons/sassIcon.svg";
 
 import javaIcon from "../../assets/images/tech-icons/javaIcon.svg";
-import pythonIcon from "../../assets/images/tech-icons/python.svg";
+import pythonIcon from "../../assets/images/tech-icons/Python.svg";
 import springIcon from "../../assets/images/tech-icons/springIcon.svg";
 import apiIcon from "../../assets/images/tech-icons/apiIcon.svg";
 import junitIcon from "../../assets/images/tech-icons/junitIcon.svg";
