@@ -1,4 +1,4 @@
-# 🚀 Aditya Ranjan --” Next-Gen Portfolio Website
+# 🚀 Aditya Ranjan -- Next-Gen Portfolio Website
 
 A modern, animation-rich developer portfolio built with **React 19**, **Vite**, **GSAP**, and **SCSS**. Showcasing full-stack projects, certifications, skills, and a responsive, interactive UI.
 
