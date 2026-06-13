@@ -12,8 +12,8 @@ const PROJECTS = [
         image: portfolio,
         tags: ["HTML", "CSS", "React.js", "SCSS", "Vite", "GSAP", "ScrollTrigger"],
         links: [
-          { label: "Live Demo", href: "#", icon: "↗" },
-          { label: "Source Code", href: "#", icon: "⌂" },
+          { label: "Live Demo", href: "https://portfolio-website-using-react-js-mu.vercel.app/", icon: "↗" },
+          { label: "Source Code", href: "https://github.com/AdityaRanjan1420077/Portfolio-Website-Using-React.js", icon: "⌂" },
         ]
       },
   {
