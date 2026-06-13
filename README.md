@@ -38,7 +38,7 @@ A modern, animation-rich developer portfolio built with **React 19**, **Vite**, 
 
 ---
 
-## ðŸ“ Project Structure
+## 📁 Project Structure
 
 ```
 portfolio/
