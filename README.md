@@ -185,7 +185,10 @@ To add custom rules, edit `eslint.config.js`:
 
 | Hero Section | Projects Section | Contact Section |
 |-------------|------------------|-----------------|
-| ![Hero](screenshots/hero.png) | ![Projects](screenshots/projects.png) | ![Contact](screenshots/contact.png) |
+| ![Hero](<img width="1913" height="886" alt="image" src="https://github.com/user-attachments/assets/49261221-eeed-448c-a883-f91ea93f9d36" />
+) | ![Projects](<img width="1918" height="886" alt="image" src="https://github.com/user-attachments/assets/01aa7312-9dab-4057-9fac-7cda79ded14a" />
+) | ![Contact](<img width="1918" height="886" alt="image" src="https://github.com/user-attachments/assets/d013457c-e729-4223-9cb7-6ba71af9c757" />
+) |
 
 ---
 
