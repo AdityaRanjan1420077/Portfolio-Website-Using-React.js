@@ -229,8 +229,8 @@ This project is licensed under the **MIT License** â€” feel free to use it 
 **Aditya Ranjan**
 
 - 📧 Email: [aditya.ranjan13658683@gmail.com](mailto:aditya.ranjan13658683@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [Your GitHub][(https://github.com/AdityaRanjan1420077)]
+- 💼 LinkedIn: (http://linkedin.com/in/aditya-ranjan-a3b77724a/)
+- 🐙 GitHub: [(https://github.com/AdityaRanjan1420077)]
 - 📱 Phone: +91-8198074264
 
 ---
