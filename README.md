@@ -60,12 +60,12 @@ portfolio/
 
 ---
 
-## ðŸš€ Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
-- **Node.js** â‰¥ 18.0.0
-- **npm** â‰¥ 9.0.0 (or **yarn** / **pnpm**)
+- **Node.js** >= 18.0.0
+- **npm** >=9.0.0 (or **yarn** / **pnpm**)
 
 ### Installation
 
@@ -87,7 +87,7 @@ The dev server will start at `http://localhost:5173` (default Vite port).
 
 ---
 
-## ðŸ“œ Available Scripts
+## 📜 Available Scripts
 
 | Script | Command | Description |
 |--------|---------|-------------|
