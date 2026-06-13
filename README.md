@@ -12,7 +12,7 @@ A modern, animation-rich developer portfolio built with **React 19**, **Vite**, 
 
 ## ✨› Features
 
-- âš¡ **Blazing Fast** â€” Powered by Vite for instant HMR and optimized production builds
+- ⚡ **Blazing Fast** â€” Powered by Vite for instant HMR and optimized production builds
 - ðŸŽ¬ **Smooth Animations** â€” GSAP-powered scroll-triggered and timeline animations
 - ðŸ“± **Fully Responsive** â€” Mobile-first design that looks great on all devices
 - ðŸŽ¨ **Modern UI/UX** â€” Clean, minimal aesthetic with SCSS styling
