@@ -39,7 +39,7 @@ A modern, animation-rich developer portfolio built with **React 19**, **Vite**, 
 ---
 
 ## 📁 Project Structure
-
+```
 portfolio/
 ├── public/                 # Static assets (images, favicon, logos)
 │   └── ar-logo.png         # Site favicon/logo
@@ -57,7 +57,7 @@ portfolio/
 ├── package.json            # Dependencies & scripts
 └── README.md               # You are here!
 
-
+```
 ---
 
 ## 🚀 Getting Started
