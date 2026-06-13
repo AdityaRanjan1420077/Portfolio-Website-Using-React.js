@@ -1,0 +1,3 @@
+export const aboutmeDescription = "I’m Aditya Ranjan, a Java Full-Stack Developer passionate about building scalable, user-centric applications. I specialize in developing robust backend systems with Java and Spring Boot, designing secure REST APIs, and creating responsive frontend experiences with ReactJS. I enjoy solving complex problems, writing clean and maintainable code, and transforming ideas into impactful software solutions.";
+export const tagline = "I'm mostly the following"
+export const tags = ["I DESIGN", "I DEVELOP", "I GET THINGS DONE"]
