@@ -191,11 +191,11 @@ To add custom rules, edit `eslint.config.js`:
 
 ## 🌐 Live Demo
 
-ðŸ”— **View Live**: (https://portfolio-website-using-react-yv42f7506.vercel.app/)
+🔗 **View Live**: (https://portfolio-website-using-react-yv42f7506.vercel.app/)
 
 ---
 
-## ðŸ¤ Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
@@ -207,13 +207,13 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## ðŸ“„ License
+## 📄 License
 
 This project is licensed under the **MIT License** â€” feel free to use it as a template for your own portfolio.
 
 ---
 
-## ðŸ™ Acknowledgments
+## 🙏 Acknowledgments
 
 - [Vite](https://vitejs.dev/) â€” Next-generation frontend tooling
 - [GSAP](https://greensock.com/gsap/) â€” Professional-grade web animation
@@ -222,18 +222,18 @@ This project is licensed under the **MIT License** â€” feel free to use it 
 
 ---
 
-## ðŸ“¬ Contact
+## 📬 Contact
 
 **Aditya Ranjan**
 
-- ðŸ“§ Email: [aditya.ranjan13658683@gmail.com](mailto:aditya.ranjan13658683@gmail.com)
-- ðŸ’¼ LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- ðŸ™ GitHub: [Your GitHub](https://github.com/yourusername)
-- ðŸ“± Phone: +91-8198074264
+- 📧 Email: [aditya.ranjan13658683@gmail.com](mailto:aditya.ranjan13658683@gmail.com)
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐙 GitHub: [Your GitHub](https://github.com/yourusername)
+- 📱 Phone: +91-8198074264
 
 ---
 
-> â­ **Star this repo** if you found it helpful or used it as inspiration for your own portfolio!
+> ⭐  **Star this repo** if you found it helpful or used it as inspiration for your own portfolio!
 avatar
 Ask In Chat
 Ask In Chat
