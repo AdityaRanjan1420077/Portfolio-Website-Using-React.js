@@ -40,24 +40,23 @@ A modern, animation-rich developer portfolio built with **React 19**, **Vite**, 
 
 ## 📁 Project Structure
 
-```
 portfolio/
-â”œâ”€â”€ public/                 # Static assets (images, favicon, logos)
-â”‚   â””â”€â”€ ar-logo.png         # Site favicon/logo
-â”œâ”€â”€ src/
-â”‚   â”œâ”€â”€ components/         # Reusable UI components
-â”‚   â”œâ”€â”€ sections/           # Page sections (Hero, About, Projects, etc.)
-â”‚   â”œâ”€â”€ hooks/              # Custom React hooks
-â”‚   â”œâ”€â”€ styles/             # SCSS partials and global styles
-â”‚   â”œâ”€â”€ utils/              # Helper functions
-â”‚   â”œâ”€â”€ App.jsx             # Root application component
-â”‚   â””â”€â”€ main.jsx            # Application entry point
-â”œâ”€â”€ index.html              # HTML entry point
-â”œâ”€â”€ vite.config.js          # Vite configuration
-â”œâ”€â”€ eslint.config.js        # ESLint flat config
-â”œâ”€â”€ package.json            # Dependencies & scripts
-â””â”€â”€ README.md               # You are here!
-```
+├── public/                 # Static assets (images, favicon, logos)
+│   └── ar-logo.png         # Site favicon/logo
+├── src/
+│   ├── components/         # Reusable UI components
+│   ├── sections/           # Page sections (Hero, About, Projects, etc.)
+│   ├── hooks/              # Custom React hooks
+│   ├── styles/             # SCSS partials and global styles
+│   ├── utils/              # Helper functions
+│   ├── App.jsx             # Root application component
+│   └── main.jsx            # Application entry point
+├── index.html              # HTML entry point
+├── vite.config.js          # Vite configuration
+├── eslint.config.js        # ESLint flat config
+├── package.json            # Dependencies & scripts
+└── README.md               # You are here!
+
 
 ---
 
