@@ -13,13 +13,13 @@ A modern, animation-rich developer portfolio built with **React 19**, **Vite**, 
 ## ✨› Features
 
 - ⚡ **Blazing Fast** â€” Powered by Vite for instant HMR and optimized production builds
-- ðŸŽ¬ **Smooth Animations** â€” GSAP-powered scroll-triggered and timeline animations
-- ðŸ“± **Fully Responsive** â€” Mobile-first design that looks great on all devices
-- ðŸŽ¨ **Modern UI/UX** â€” Clean, minimal aesthetic with SCSS styling
-- ðŸ”¤ **Text Animations** â€” Split-type character animations for engaging typography
-- ðŸŽ¯ **React 19** â€” Latest React features with modern hooks and patterns
-- ðŸŒˆ **Dynamic Colors** â€” ColorJS integration for adaptive theming
-- ðŸ”— **Social Links** â€” Integrated contact and social media connections
+- 🎬 **Smooth Animations** â€” GSAP-powered scroll-triggered and timeline animations
+- 📱 **Fully Responsive** â€” Mobile-first design that looks great on all devices
+- 🎨 **Modern UI/UX** â€” Clean, minimal aesthetic with SCSS styling
+- 🔤 **Text Animations** â€” Split-type character animations for engaging typography
+- 🎯 **React 19** â€” Latest React features with modern hooks and patterns
+- 🌈 **Dynamic Colors** â€” ColorJS integration for adaptive theming
+- 🔗 **Social Links** â€” Integrated contact and social media connections
 
 ---
 
