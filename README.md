@@ -185,10 +185,9 @@ To add custom rules, edit `eslint.config.js`:
 
 | Hero Section | Projects Section | Contact Section |
 |-------------|------------------|-----------------|
-| ![Hero](<img width="1913" height="886" alt="image" src="https://github.com/user-attachments/assets/49261221-eeed-448c-a883-f91ea93f9d36" />
-) | ![Projects](<img width="1918" height="886" alt="image" src="https://github.com/user-attachments/assets/01aa7312-9dab-4057-9fac-7cda79ded14a" />
-) | ![Contact](<img width="1918" height="886" alt="image" src="https://github.com/user-attachments/assets/d013457c-e729-4223-9cb7-6ba71af9c757" />
-) |
+| ![Hero](<img width="1913" height="886" alt="image" src="https://github.com/user-attachments/assets/49261221-eeed-448c-a883-f91ea93f9d36" />)
+| ![Projects](<img width="1918" height="886" alt="image" src="https://github.com/user-attachments/assets/01aa7312-9dab-4057-9fac-7cda79ded14a" />) | ![Contact](<img width="1918" height="886" alt="image" src="https://github.com/user-attachments/assets/d013457c-e729-4223-9cb7-6ba71af9c757" />)
+|
 
 ---
 
@@ -218,10 +217,10 @@ This project is licensed under the **MIT License** â€” feel free to use it 
 
 ## 🙏 Acknowledgments
 
-- [Vite](https://vitejs.dev/) â€” Next-generation frontend tooling
-- [GSAP](https://greensock.com/gsap/) â€” Professional-grade web animation
-- [React](https://react.dev/) â€” The library for web and native user interfaces
-- [React Icons](https://react-icons.github.io/react-icons/) â€” Popular icons for React
+- [Vite](https://vitejs.dev/) --” Next-generation frontend tooling
+- [GSAP](https://greensock.com/gsap/) --” Professional-grade web animation
+- [React](https://react.dev/) --” The library for web and native user interfaces
+- [React Icons](https://react-icons.github.io/react-icons/) --” Popular icons for React
 
 ---
 
